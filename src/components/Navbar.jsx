@@ -41,7 +41,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
         <div className="text-2xl font-bold text-white px-4 py-2 rounded-lg bg-red-900">
-          MNNS-Test
+          NMMS-Test
         </div>
 
         {/* Toggle Button for Mobile */}
